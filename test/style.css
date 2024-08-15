@@ -1,0 +1,31 @@
+body {
+    height: 100%;
+    width: 90%;
+    display: block;
+    font-size: 18px;
+    align-content: center;
+    text-align: left;
+    background-color: darkseagreen;
+    padding-left: 5%;
+}
+
+h2 {
+    text-align: center;
+    color: darkgreen;
+}
+
+.header{
+    background-color: darkslategray;
+    margin: 2px;
+    font-size: 20px;
+}
+
+ul{
+    margin: 2px 35px ;
+}
+
+a{
+    margin-left: 5%;
+    text-decoration: none;
+    color: #000;
+}
